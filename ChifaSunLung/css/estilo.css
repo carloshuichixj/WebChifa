@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #fcdd09;
+}
+.nav-link {
+  border-radius: .25rem;
+  margin: 0 0.25em;
+}
+.nav-link:hover{
+  color: #2d2702;
+}
+.navbar-toggler{
+  background-color: #fff;
+}
+.sidebar-heading{
+  margin: 5em 0.25em;
+}
+#sidebar-wrapper{
+  min-height: 100vh;
+}
